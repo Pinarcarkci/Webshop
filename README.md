@@ -1,2 +1,2 @@
-# Webshop
- Game World
+# GameWorld
+Game shop
